@@ -3,7 +3,7 @@
 just add
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.6.3/sass.min.js"></script>
-<script src="sillyScss.js"></script>
+<script src="https://orsifrancesco.github.io/sillyScss/sillyScss.js"></script>
 ```
 
 and play with `scss` on your `html` page without installing anything..
@@ -19,3 +19,6 @@ and play with `scss` on your `html` page without installing anything..
 ```
 
 that's it
+
+Don't you believe me? [Click here for the result](https://orsifrancesco.github.io/sillyScss/).
+Useful for quick tests.. illegal for release!
