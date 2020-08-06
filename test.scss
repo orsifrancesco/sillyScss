@@ -1,0 +1,19 @@
+$color: white;
+$background: tomato;
+
+#app {
+
+    font-family: sans-serif;
+    background-color: $background;
+    display: block;
+    float: left;
+
+    h1 {
+
+        color: $color;
+        padding: 10px 20px;
+        font-size: 32px;
+
+    }
+
+}
